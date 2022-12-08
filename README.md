@@ -10,3 +10,5 @@ We didn't implement it fully. The presenter adapter e.g. don't map the received 
 Else, it contains everything Clean Architecture requires.
 
 The presentation can be found in the resources folder.
+
+The final miro board can also be fournd in the resources folder.
