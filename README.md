@@ -8,3 +8,5 @@ You can run it and send a POST request using sample-create-dancing-event-request
 We didn't implement it fully. The presenter adapter e.g. don't map the received data to a corresponding http response.
 
 Else, it contains everything Clean Architecture requires.
+
+The presentation can be found in the resources folder.
